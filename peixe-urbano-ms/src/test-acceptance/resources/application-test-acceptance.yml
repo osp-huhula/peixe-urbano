@@ -1,4 +1,15 @@
 logging:
    level:
       root: OFF
-application-profile: acceptance-test
+spring:
+   datasource:
+      url: jdbc:h2:mem:db-test-acceptance;DB_CLOSE_DELAY=-1
+      username: sa
+      password: sa
+      driverClassName: org.h2.Driver
+   jpa:
+    show-sql: true
+    hibernate:
+      ddl-auto: update
+      
+application-enviromnt: acceptance-test
