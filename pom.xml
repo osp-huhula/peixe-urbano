@@ -15,4 +15,8 @@
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
+	<modules>
+		<module>peixe-urbano-ms</module>
+	</modules>
+	<name>Peixe-urbano project</name>
 </project>
