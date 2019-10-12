@@ -1,0 +1,15 @@
+info:
+   java:
+      source: ${java.version}
+logging:
+   level:
+      root: INFO
+server:
+   port: 8099
+   servlet:
+      contextPath: /jbrasileiro
+spring:
+   application:
+      name: micro-service developed by jbrasileiro
+application-profile: production
+value: production

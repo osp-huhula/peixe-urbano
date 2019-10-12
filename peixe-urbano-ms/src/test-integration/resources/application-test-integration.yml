@@ -1,0 +1,4 @@
+logging:
+   level:
+      root: OFF
+application-profile: integration-test
