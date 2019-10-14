@@ -1,7 +1,12 @@
 logging:
    level:
       root: OFF
+   org:
+      springframework:
+         boot: ERROR
 spring:
+   profiles: 
+      active: "time-frozen"
    datasource:
       url: jdbc:h2:mem:db-test-integration;DB_CLOSE_DELAY=-1
       username: sa

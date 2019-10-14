@@ -1,0 +1,35 @@
+[
+	{
+		"id": 1,
+		"title": "Frigideira de Alumínio com Revestimento Cerâmico de 20cm",
+		"text": "Frigideira de Alumínio com Revestimento Cerâmico de 20cm",
+		"createDate": "2000-12-30T12:59:59.000+0000",
+		"publicDate": "2000-12-30T00:00:00.000+0000",
+		"endDate": "2000-12-30T12:59:59.000+0000",
+		"url": "frigideira-de-aluminio-com-revestimento-ceramico-de-20cm",
+		"totalSold": null,
+		"type": "PRODUCT"
+	},
+	{
+		"id": 2,
+		"title": "Frigideira de Alumínio com Revestimento Cerâmico de 24cm",
+		"text": "Frigideira de Alumínio com Revestimento Cerâmico de 24cm",
+		"createDate": "2000-12-30T12:59:59.000+0000",
+		"publicDate": "2000-12-30T00:00:00.000+0000",
+		"endDate": "2000-12-30T12:59:59.000+0000",
+		"url": "frigideira-de-aluminio-com-revestimento-ceramico-de-24cm",
+		"totalSold": null,
+		"type": "PRODUCT"
+	},
+	{
+		"id": 3,
+		"title": "Frigideira de Alumínio com Revestimento Cerâmico de 28cm",
+		"text": "Frigideira de Alumínio com Revestimento Cerâmico de 28cm",
+		"createDate": "2000-12-30T12:59:59.000+0000",
+		"publicDate": "2000-12-30T00:00:00.000+0000",
+		"endDate": "2000-12-30T12:59:59.000+0000",
+		"url": "frigideira-de-aluminio-com-revestimento-ceramico-de-28cm",
+		"totalSold": null,
+		"type": "PRODUCT"
+	}
+]
